@@ -1,1 +1,11 @@
-
+Date,Store,Product,Units_Sold,Unit_Price,Total_Sales
+2022-01-31,Leeds,Coats,22,12.20,268.40
+2022-01-31,Birmingham,Shirts,13,67.85,882.05
+2022-01-31,Manchester,Shoes,14,10.04,140.56
+2022-01-31,Glasgow,Shoes,19,91.62,1740.78
+2022-02-28,London,Bags,25,55.00,1375.00
+2022-02-28,Leeds,Shirts,18,45.75,823.50
+2022-02-28,Manchester,Coats,11,60.00,660.00
+2022-03-31,Birmingham,Bags,30,40.00,1200.00
+2022-03-31,London,Shoes,16,88.99,1423.84
+2022-03-31,Glasgow,Shirts,20,35.00,700.00
