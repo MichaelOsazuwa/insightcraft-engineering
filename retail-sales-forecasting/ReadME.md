@@ -28,7 +28,7 @@ This project simulates a real-world retail analytics task — forecasting UK ret
 
 ## 📈 Visual Preview
 
-![Sales by Store](../retail-sales-forecasting/sales_by_store.png)
+![Sales by Store](visuals/sales_by_store.png)
 
 ---
 
